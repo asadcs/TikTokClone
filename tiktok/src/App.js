@@ -6,12 +6,14 @@ import Video from "./Video";
 
 function App() {
   return (
-    <div className="app__videos">
-      ASad Tik Tok
-      <Video />
-      <Video />
-      <Video />
-      <Video />
+    <div className="app">
+      <div className="app__videos">
+        ASad Tik Tok
+        <Video />
+        <Video />
+        <Video />
+        <Video />
+      </div>
     </div>
   );
 }
