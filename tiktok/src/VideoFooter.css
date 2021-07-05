@@ -1,7 +1,7 @@
 .videoFooter {
   position: relative;
   color: white;
-  bottom: 50px;
+  top: 50px;
   margin-left: 40px;
   display: flex;
   z-index: 100;
@@ -12,7 +12,7 @@
 }
 
 .videoFooter__text > p {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 .videoFooter__record {
